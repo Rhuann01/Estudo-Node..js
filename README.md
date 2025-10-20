@@ -65,7 +65,7 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 ## 📚 O que eu aprendi
 
 Neste projeto, tive a oportunidade de aprender e aprofundar meus conhecimentos em:
-
+  * Gerenciamento de dados sensíveis (credenciais) utilizando variáveis de ambiente com um arquivo .env para não expor informações no código.
   * Criação de um servidor web e API RESTful com Express.
   * Modelagem de dados e operações CRUD com Mongoose e MongoDB.
   * Conexão com um banco de dados na nuvem (MongoDB Atlas).
