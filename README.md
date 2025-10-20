@@ -1,9 +1,3 @@
-Boa, bem lembrado\! Postman é fundamental pra testar a API.
-
-Já atualizei o README pra incluir ele.
-
------
-
 # 🚀 Projeto de Estudo em Node.js
 
 Este projeto foi desenvolvido como parte de um estudo aprofundado em Node.js, com o objetivo de criar uma API REST para gerenciamento de usuários, explorando a integração com banco de dados e a renderização de views no servidor.
